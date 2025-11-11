@@ -16,13 +16,9 @@ Cada música possui seu próprio card com:
 
 Layout responsivo: 4 cards por linha, centralizados na página.
 
-2- ✨ *Animações e efeitos visuais*
+2- ✨ *Efeitos visuais*
 
-Brilhos coloridos caindo pelo fundo da tela.
-
-Animação de fade-in nos elementos (cabeçalho e cards).
-
-Velocidade dos brilhos ajustável para um efeito suave e dinâmico.
+Animação de fade-in nos elementos.
 
 3- 📱 *Layout Responsivo*
 
